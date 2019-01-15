@@ -1,0 +1,32 @@
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yeun.html')
+(2, u'Post_6425b4260102yeto.html')
+(3, u'Post_6425b4260102yepl.html')
+(4, u'Post_6425b4260102yem9.html')
+(5, u'Post_6425b4260102yei4.html')
+(6, u'Post_6425b4260102yebc.html')
+(7, u'Post_6425b4260102ye77.html')
+(8, u'Post_6425b4260102ye3r.html')
+(9, u'Post_6425b4260102ye1c.html')
+(10, u'Post_6425b4260102ydyh.html')
+/Users/qiyu/sina/fmz/docs
+Tue Jan 15 09:55:02 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102yeto.html
+	docs/Post_6425b4260102yeun.html
+	run.err
+	run.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
