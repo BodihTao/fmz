@@ -1275,3 +1275,92 @@ Untracked files:
 	docs/Post_6425b4260102yfmz.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 5b32ff6] update
+ 5 files changed, 138 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102yfmz.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yfmz.html')
+(2, u'Post_6425b4260102yfly.html')
+(3, u'Post_6425b4260102yfl4.html')
+(4, u'Post_6425b4260102yfld.html')
+(5, u'Post_6425b4260102yfl3.html')
+(6, u'Post_6425b4260102yfks.html')
+(7, u'Post_6425b4260102yfko.html')
+(8, u'Post_6425b4260102yfjs.html')
+(9, u'Post_6425b4260102yfcz.html')
+(10, u'Post_6425b4260102yfar.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yfmz.html')
+(2, u'Post_6425b4260102yfly.html')
+(3, u'Post_6425b4260102yfl4.html')
+(4, u'Post_6425b4260102yfld.html')
+(5, u'Post_6425b4260102yfl3.html')
+(6, u'Post_6425b4260102yfks.html')
+(7, u'Post_6425b4260102yfko.html')
+(8, u'Post_6425b4260102yfjs.html')
+(9, u'Post_6425b4260102yfcz.html')
+(10, u'Post_6425b4260102yfar.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yfmz.html')
+(2, u'Post_6425b4260102yfly.html')
+(3, u'Post_6425b4260102yfl4.html')
+(4, u'Post_6425b4260102yfld.html')
+(5, u'Post_6425b4260102yfl3.html')
+(6, u'Post_6425b4260102yfks.html')
+(7, u'Post_6425b4260102yfko.html')
+(8, u'Post_6425b4260102yfjs.html')
+(9, u'Post_6425b4260102yfcz.html')
+(10, u'Post_6425b4260102yfar.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yfmz.html')
+(2, u'Post_6425b4260102yfly.html')
+(3, u'Post_6425b4260102yfl4.html')
+(4, u'Post_6425b4260102yfld.html')
+(5, u'Post_6425b4260102yfl3.html')
+(6, u'Post_6425b4260102yfks.html')
+(7, u'Post_6425b4260102yfko.html')
+(8, u'Post_6425b4260102yfjs.html')
+(9, u'Post_6425b4260102yfcz.html')
+(10, u'Post_6425b4260102yfar.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yfmz.html')
+(2, u'Post_6425b4260102yfly.html')
+(3, u'Post_6425b4260102yfl4.html')
+(4, u'Post_6425b4260102yfld.html')
+(5, u'Post_6425b4260102yfl3.html')
+(6, u'Post_6425b4260102yfks.html')
+(7, u'Post_6425b4260102yfko.html')
+(8, u'Post_6425b4260102yfjs.html')
+(9, u'Post_6425b4260102yfcz.html')
+(10, u'Post_6425b4260102yfar.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102wvv3.html')
+(2, u'Post_6425b4260102yfmz.html')
+(3, u'Post_6425b4260102yfly.html')
+(4, u'Post_6425b4260102yfl4.html')
+(5, u'Post_6425b4260102yfld.html')
+(6, u'Post_6425b4260102yfl3.html')
+(7, u'Post_6425b4260102yfks.html')
+(8, u'Post_6425b4260102yfko.html')
+(9, u'Post_6425b4260102yfjs.html')
+(10, u'Post_6425b4260102yfcz.html')
+/Users/qiyu/sina/fmz/docs
+Wed Feb 13 10:44:06 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102wvv3.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
