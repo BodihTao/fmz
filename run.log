@@ -2181,3 +2181,80 @@ Changes not staged for commit:
 	modified:   run.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 2dd773c] update
+ 14 files changed, 151 insertions(+), 44 deletions(-)
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yg2p.html')
+(2, u'Post_6425b4260102yg0h.html')
+(3, u'Post_6425b4260102yg0f.html')
+(4, u'Post_6425b4260102yfui.html')
+(5, u'Post_6425b4260102yfqf.html')
+(6, u'Post_6425b4260102yfpo.html')
+(7, u'Post_6425b4260102wvv3.html')
+(8, u'Post_6425b4260102yfmz.html')
+(9, u'Post_6425b4260102yfly.html')
+(10, u'Post_6425b4260102yfl4.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yg2p.html')
+(2, u'Post_6425b4260102yg0h.html')
+(3, u'Post_6425b4260102yg0f.html')
+(4, u'Post_6425b4260102yfui.html')
+(5, u'Post_6425b4260102yfqf.html')
+(6, u'Post_6425b4260102yfpo.html')
+(7, u'Post_6425b4260102wvv3.html')
+(8, u'Post_6425b4260102yfmz.html')
+(9, u'Post_6425b4260102yfly.html')
+(10, u'Post_6425b4260102yfl4.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yg2p.html')
+(2, u'Post_6425b4260102yg0h.html')
+(3, u'Post_6425b4260102yg0f.html')
+(4, u'Post_6425b4260102yfui.html')
+(5, u'Post_6425b4260102yfqf.html')
+(6, u'Post_6425b4260102yfpo.html')
+(7, u'Post_6425b4260102wvv3.html')
+(8, u'Post_6425b4260102yfmz.html')
+(9, u'Post_6425b4260102yfly.html')
+(10, u'Post_6425b4260102yfl4.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yg2p.html')
+(2, u'Post_6425b4260102yg0h.html')
+(3, u'Post_6425b4260102yg0f.html')
+(4, u'Post_6425b4260102yfui.html')
+(5, u'Post_6425b4260102yfqf.html')
+(6, u'Post_6425b4260102yfpo.html')
+(7, u'Post_6425b4260102wvv3.html')
+(8, u'Post_6425b4260102yfmz.html')
+(9, u'Post_6425b4260102yfly.html')
+(10, u'Post_6425b4260102yfl4.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yg7f.html')
+(2, u'Post_6425b4260102yg2p.html')
+(3, u'Post_6425b4260102yg0h.html')
+(4, u'Post_6425b4260102yg0f.html')
+(5, u'Post_6425b4260102yfui.html')
+(6, u'Post_6425b4260102yfqf.html')
+(7, u'Post_6425b4260102yfpo.html')
+(8, u'Post_6425b4260102wvv3.html')
+(9, u'Post_6425b4260102yfmz.html')
+(10, u'Post_6425b4260102yfly.html')
+/Users/qiyu/sina/fmz/docs
+Wed Feb 27 15:47:36 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102yg7f.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
