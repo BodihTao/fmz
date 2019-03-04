@@ -2438,3 +2438,37 @@ Untracked files:
 	docs/Post_6425b4260102ygbj.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 1d05331] update
+ 7 files changed, 252 insertions(+), 8 deletions(-)
+ create mode 100644 docs/Post_6425b4260102ygbj.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ygea.html')
+(2, u'Post_6425b4260102ygbj.html')
+(3, u'Post_6425b4260102yg7f.html')
+(4, u'Post_6425b4260102yg2p.html')
+(5, u'Post_6425b4260102yg0h.html')
+(6, u'Post_6425b4260102yg0f.html')
+(7, u'Post_6425b4260102yfui.html')
+(8, u'Post_6425b4260102yfqf.html')
+(9, u'Post_6425b4260102yfpo.html')
+(10, u'Post_6425b4260102wvv3.html')
+/Users/qiyu/sina/fmz/docs
+Mon Mar  4 09:55:56 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102ygea.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
