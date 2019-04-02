@@ -4109,3 +4109,55 @@ Untracked files:
 	docs/Post_6425b4260102yi2j.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master bcac149] update
+ 5 files changed, 161 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102yi2j.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yi2j.html')
+(2, u'Post_6425b4260102yhzz.html')
+(3, u'Post_6425b4260102yhy5.html')
+(4, u'Post_6425b4260102yhvs.html')
+(5, u'Post_6425b4260102yhqh.html')
+(6, u'Post_6425b4260102yhng.html')
+(7, u'Post_6425b4260102yhk3.html')
+(8, u'Post_6425b4260102yhd1.html')
+(9, u'Post_6425b4260102yh39.html')
+(10, u'Post_6425b4260102yh1n.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yi2j.html')
+(2, u'Post_6425b4260102yhzz.html')
+(3, u'Post_6425b4260102yhy5.html')
+(4, u'Post_6425b4260102yhvs.html')
+(5, u'Post_6425b4260102yhqh.html')
+(6, u'Post_6425b4260102yhng.html')
+(7, u'Post_6425b4260102yhk3.html')
+(8, u'Post_6425b4260102yhd1.html')
+(9, u'Post_6425b4260102yh39.html')
+(10, u'Post_6425b4260102yh1n.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yi2j.html')
+(2, u'Post_6425b4260102yhzz.html')
+(3, u'Post_6425b4260102yhy5.html')
+(4, u'Post_6425b4260102yhvs.html')
+(5, u'Post_6425b4260102yhqh.html')
+(6, u'Post_6425b4260102yhng.html')
+(7, u'Post_6425b4260102yhk3.html')
+(8, u'Post_6425b4260102yhd1.html')
+(9, u'Post_6425b4260102yh39.html')
+(10, u'Post_6425b4260102yh1n.html')
+/Users/qiyu/sina/fmz/docs
+Tue Apr  2 14:43:12 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/Post_6425b4260102yi2j.html
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
