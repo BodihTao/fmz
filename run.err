@@ -133,3 +133,5 @@ Traceback (most recent call last):
   File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
     data = self._sock.recv(self._rbufsize)
 socket.error: [Errno 54] Connection reset by peer
+To github.com:BodihTao/fmz.git
+   de40b7a..bc2a899  master -> master
