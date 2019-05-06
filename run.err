@@ -189,3 +189,5 @@ Traceback (most recent call last):
 socket.error: [Errno 54] Connection reset by peer
 To github.com:BodihTao/fmz.git
    5b6b6ee..8a08e95  master -> master
+To github.com:BodihTao/fmz.git
+   8a08e95..6c468f5  master -> master
