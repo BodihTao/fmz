@@ -6449,3 +6449,204 @@ Untracked files:
 	docs/Post_6425b4260102yjm4.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 8185b7e] update
+ Committer: System Administrator <root@ali.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 155 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102yjm4.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjm4.html')
+(2, u'Post_6425b4260102yjjq.html')
+(3, u'Post_6425b4260102yjf4.html')
+(4, u'Post_6425b4260102yje3.html')
+(5, u'Post_6425b4260102yjct.html')
+(6, u'Post_6425b4260102yjcs.html')
+(7, u'Post_6425b4260102yj8h.html')
+(8, u'Post_6425b4260102yj7c.html')
+(9, u'Post_6425b4260102yj77.html')
+(10, u'Post_6425b4260102yj5s.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yjn3.html')
+(2, u'Post_6425b4260102yjm4.html')
+(3, u'Post_6425b4260102yjjq.html')
+(4, u'Post_6425b4260102yjf4.html')
+(5, u'Post_6425b4260102yje3.html')
+(6, u'Post_6425b4260102yjct.html')
+(7, u'Post_6425b4260102yjcs.html')
+(8, u'Post_6425b4260102yj8h.html')
+(9, u'Post_6425b4260102yj7c.html')
+(10, u'Post_6425b4260102yj77.html')
+/Users/qiyu/sina/fmz/docs
+Thu May 16 10:17:26 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102yjn3.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
