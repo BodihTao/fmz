@@ -9954,3 +9954,47 @@ Untracked files:
 	docs/Post_6425b4260102ykv0.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 5157e7d] update
+ Committer: System Administrator <root@ali.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 257 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102ykuz.html
+ create mode 100644 docs/Post_6425b4260102ykv0.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ykv0.html')
+(2, u'Post_6425b4260102ykuz.html')
+(3, u'Post_6425b4260102ykud.html')
+(4, u'Post_6425b4260102yktz.html')
+(5, u'Post_6425b4260102yktf.html')
+(6, u'Post_6425b4260102ykt7.html')
+(7, u'Post_6425b4260102ykt3.html')
+(8, u'Post_6425b4260102yks8.html')
+(9, u'Post_6425b4260102ykru.html')
+(10, u'Post_6425b4260102ykrd.html')
+/Users/qiyu/sina/fmz/docs
+Tue Jul 16 10:51:26 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/Post_6425b4260102ykuz.html
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
