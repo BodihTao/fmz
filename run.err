@@ -446,3 +446,5 @@ Traceback (most recent call last):
 urllib2.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
 To github.com:BodihTao/fmz.git
    d8e5d18..7fcd660  master -> master
+To github.com:BodihTao/fmz.git
+   7fcd660..ad6a8e1  master -> master
