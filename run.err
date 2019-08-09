@@ -498,3 +498,5 @@ Traceback (most recent call last):
   File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1197, in do_open
     raise URLError(err)
 urllib2.URLError: <urlopen error [Errno 51] Network is unreachable>
+To github.com:BodihTao/fmz.git
+   4626b72..f0d2705  master -> master
