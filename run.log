@@ -11795,3 +11795,138 @@ Untracked files:
 	docs/Post_6425b4260102yl9z.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 6adfb98] update
+ Committer: System Administrator <root@ali.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 115 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102yl9z.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yl9z.html')
+(2, u'Post_6425b4260102yl9u.html')
+(3, u'Post_6425b4260102yl8n.html')
+(4, u'Post_6425b4260102yl7x.html')
+(5, u'Post_6425b4260102yl7n.html')
+(6, u'Post_6425b4260102yl7m.html')
+(7, u'Post_6425b4260102yl6g.html')
+(8, u'Post_6425b4260102yl4g.html')
+(9, u'Post_6425b4260102yl14.html')
+(10, u'Post_6425b4260102yl03.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ylc3.html')
+(2, u'Post_6425b4260102yl9z.html')
+(3, u'Post_6425b4260102yl9u.html')
+(4, u'Post_6425b4260102yl8n.html')
+(5, u'Post_6425b4260102yl7x.html')
+(6, u'Post_6425b4260102yl7n.html')
+(7, u'Post_6425b4260102yl7m.html')
+(8, u'Post_6425b4260102yl6g.html')
+(9, u'Post_6425b4260102yl4g.html')
+(10, u'Post_6425b4260102yl14.html')
+/Users/qiyu/sina/fmz/docs
+Wed Aug 14 10:28:04 CST 2019
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102ylc3.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
