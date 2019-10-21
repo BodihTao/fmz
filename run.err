@@ -596,3 +596,5 @@ To github.com:BodihTao/fmz.git
 To github.com:BodihTao/fmz.git
    7f41e09..0f0b6b6  master -> master
 xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+To github.com:BodihTao/fmz.git
+   0f0b6b6..5e56f90  master -> master
