@@ -693,3 +693,41 @@ To github.com:BodihTao/fmz.git
    36d4524..3f0f665  master -> master
 To github.com:BodihTao/fmz.git
    3f0f665..4679b64  master -> master
+To github.com:BodihTao/fmz.git
+   4679b64..cc9a2e7  master -> master
+Traceback (most recent call last):
+  File "sina_blog_crawler.py", line 59, in <module>
+    htmlText = get_html_body(urlInput)
+  File "sina_blog_crawler.py", line 52, in get_html_body
+    response = urllib2.urlopen(url)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+urllib2.URLError: <urlopen error [Errno 60] Operation timed out>
+Traceback (most recent call last):
+  File "sina_blog_crawler.py", line 59, in <module>
+    htmlText = get_html_body(urlInput)
+  File "sina_blog_crawler.py", line 52, in get_html_body
+    response = urllib2.urlopen(url)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+urllib2.URLError: <urlopen error [Errno 60] Operation timed out>
