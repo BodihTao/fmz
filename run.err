@@ -731,3 +731,5 @@ Traceback (most recent call last):
   File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1197, in do_open
     raise URLError(err)
 urllib2.URLError: <urlopen error [Errno 60] Operation timed out>
+To github.com:BodihTao/fmz.git
+   cc9a2e7..e95be85  master -> master
