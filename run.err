@@ -733,3 +733,5 @@ Traceback (most recent call last):
 urllib2.URLError: <urlopen error [Errno 60] Operation timed out>
 To github.com:BodihTao/fmz.git
    cc9a2e7..e95be85  master -> master
+To github.com:BodihTao/fmz.git
+   e95be85..bde003e  master -> master
