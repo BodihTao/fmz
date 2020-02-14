@@ -929,3 +929,5 @@ Traceback (most recent call last):
   File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 558, in http_error_default
     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
 urllib2.HTTPError: HTTP Error 504: Gateway Time-out
+To github.com:BodihTao/fmz.git
+   8f89583..84e0739  master -> master
