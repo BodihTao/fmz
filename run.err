@@ -931,3 +931,5 @@ Traceback (most recent call last):
 urllib2.HTTPError: HTTP Error 504: Gateway Time-out
 To github.com:BodihTao/fmz.git
    8f89583..84e0739  master -> master
+To github.com:BodihTao/fmz.git
+   84e0739..59ba372  master -> master
