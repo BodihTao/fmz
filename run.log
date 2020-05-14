@@ -23106,3 +23106,78 @@ Changes not staged for commit:
 	modified:   run.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 2e939d2] update
+ Committer: System Administrator <root@ali.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 63 insertions(+), 3 deletions(-)
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yppu.html')
+(2, u'Post_6425b4260102yppq.html')
+(3, u'Post_6425b4260102yppj.html')
+(4, u'Post_6425b4260102ypo7.html')
+(5, u'Post_6425b4260102ypk2.html')
+(6, u'Post_6425b4260102ypf9.html')
+(7, u'Post_6425b4260102ypdd.html')
+(8, u'Post_6425b4260102ypcw.html')
+(9, u'Post_6425b4260102yp8l.html')
+(10, u'Post_6425b4260102yp7x.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yppu.html')
+(2, u'Post_6425b4260102yppq.html')
+(3, u'Post_6425b4260102yppj.html')
+(4, u'Post_6425b4260102ypo7.html')
+(5, u'Post_6425b4260102ypk2.html')
+(6, u'Post_6425b4260102ypf9.html')
+(7, u'Post_6425b4260102ypdd.html')
+(8, u'Post_6425b4260102ypcw.html')
+(9, u'Post_6425b4260102yp8l.html')
+(10, u'Post_6425b4260102yp7x.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yppu.html')
+(2, u'Post_6425b4260102yppq.html')
+(3, u'Post_6425b4260102yppj.html')
+(4, u'Post_6425b4260102ypo7.html')
+(5, u'Post_6425b4260102ypk2.html')
+(6, u'Post_6425b4260102ypf9.html')
+(7, u'Post_6425b4260102ypdd.html')
+(8, u'Post_6425b4260102ypcw.html')
+(9, u'Post_6425b4260102yp8l.html')
+(10, u'Post_6425b4260102yp7x.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102yppu.html')
+(2, u'Post_6425b4260102yppq.html')
+(3, u'Post_6425b4260102yppj.html')
+(4, u'Post_6425b4260102ypo7.html')
+(5, u'Post_6425b4260102ypk2.html')
+(6, u'Post_6425b4260102ypf9.html')
+(7, u'Post_6425b4260102ypdd.html')
+(8, u'Post_6425b4260102ypcw.html')
+(9, u'Post_6425b4260102yp8l.html')
+(10, u'Post_6425b4260102yp7x.html')
+/Users/qiyu/sina/fmz/docs
+Thu May 14 11:51:55 CST 2020
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/Post_6425b4260102ypf9.html
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
