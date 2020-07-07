@@ -26153,3 +26153,83 @@ Untracked files:
 	docs/Post_6425b4260102ypz5.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 9d94ac3] update
+ Committer: System Administrator <root@ali.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 113 insertions(+), 2 deletions(-)
+ create mode 100644 docs/Post_6425b4260102ypz5.html
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ypz5.html')
+(2, u'Post_6425b4260102ypz3.html')
+(3, u'Post_6425b4260102ypyz.html')
+(4, u'Post_6425b4260102ypyk.html')
+(5, u'Post_6425b4260102ypxy.html')
+(6, u'Post_6425b4260102ypxh.html')
+(7, u'Post_6425b4260102ypx2.html')
+(8, u'Post_6425b4260102ypws.html')
+(9, u'Post_6425b4260102ypwn.html')
+(10, u'Post_6425b4260102ypwh.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ypz5.html')
+(2, u'Post_6425b4260102ypz3.html')
+(3, u'Post_6425b4260102ypyz.html')
+(4, u'Post_6425b4260102ypyk.html')
+(5, u'Post_6425b4260102ypxy.html')
+(6, u'Post_6425b4260102ypxh.html')
+(7, u'Post_6425b4260102ypx2.html')
+(8, u'Post_6425b4260102ypws.html')
+(9, u'Post_6425b4260102ypwn.html')
+(10, u'Post_6425b4260102ypwh.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ypz5.html')
+(2, u'Post_6425b4260102ypz3.html')
+(3, u'Post_6425b4260102ypyz.html')
+(4, u'Post_6425b4260102ypyk.html')
+(5, u'Post_6425b4260102ypxy.html')
+(6, u'Post_6425b4260102ypxh.html')
+(7, u'Post_6425b4260102ypx2.html')
+(8, u'Post_6425b4260102ypws.html')
+(9, u'Post_6425b4260102ypwn.html')
+(10, u'Post_6425b4260102ypwh.html')
+/Users/qiyu/sina/fmz
+(1, u'Post_6425b4260102ypze.html')
+(2, u'Post_6425b4260102ypz5.html')
+(3, u'Post_6425b4260102ypz3.html')
+(4, u'Post_6425b4260102ypyz.html')
+(5, u'Post_6425b4260102ypyk.html')
+(6, u'Post_6425b4260102ypxy.html')
+(7, u'Post_6425b4260102ypxh.html')
+(8, u'Post_6425b4260102ypx2.html')
+(9, u'Post_6425b4260102ypws.html')
+(10, u'Post_6425b4260102ypwn.html')
+/Users/qiyu/sina/fmz/docs
+Tue Jul  7 14:15:21 CST 2020
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/index.html
+	modified:   docs/index2.html
+	modified:   run.err
+	modified:   run.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	docs/Post_6425b4260102ypze.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
